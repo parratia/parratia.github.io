@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a PhD student at the [EPSRC Centre for Doctoral Training in Statistical and Applied Mathematics (SAMBa)](https://samba.ac.uk/), University of Bath, UK. I'm a mathematical engineer with an MSc degree in applied mathematics at the [University of Chile](https://www.uchile.cl/postgrados/111195/applied-mathematics). My research interests lie in Inverse Problems, PDEs and Deep Learning. I like to apply my knowledge in real-world problems, especially in those arising from the biomedicine area and medical imaging. 
 
+Currently, I'm in my early stage of my PhD, under the supervision of [Matthias Erhardt](https://mehrhardt.github.io/) and [Lisa Kreusser](https://people.bath.ac.uk/lmk54/) studying Physics-Informed Neural Networks for the resolution of Dynamical Inverse Problems.
+
+In my leisure time, I like to learn new things about deep learning, play the piano, play football, take a walk with Brunildo and listen to new musicians. 
+
+<!--
+working as a young researcher at the [Millennium Nucleus for Cardiovascular Magnetic Resonance](https://www.iniciativamilenio.cl/en/millennium-nucleus-in-cardiovascular-magnetic-resonance/#:~:text=The%20mission%20of%20the%20Millennium,and%20treatment%20of%20cardiovascular%20diseases.), where the goal of the project I'm carrying out is to reconstruct strain parameters from cine-MRI sequences with an image registration approach based on physics-informed neural networks. These strain parameters are, nowadays, being used to make better diagnosis and prognosis of heart's diseases. -->
+
+News
+======
+
+- **11/2023** New preprint. [WarpPINN: Cine-MR image registration with physics-informed neural networks](https://arxiv.org/abs/2211.12549). Joint work with [Francisco Sahli Costabal](https://fsahli.github.io/), [Daniel Hurtado](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/67-daniel-hurtado), [Sergio Uribe](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/75-sergio-uribe), and Hernán Mella. 
+
+# Education
+- MSc in Applied Mathematics at the Universidad de Chile, Facultad de Ciencias Físicas y Matemáticas, 2020
+- Civil Mathematical Engineering at the Universidad de Chile, Facultad de Ciencias Físicas y Matemáticas, 2020
+- BSc in Engineering, with specialization in mathematics at the Universidad de Chile, Facultad de Ciencias Físicas y Matemáticas, 2018
+- Minor in Quantum Physics at the Universidad de Chile, Facultad de Ciencias Físicas y Matemáticas, 2018
+- 
+<!--
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -47,4 +66,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
