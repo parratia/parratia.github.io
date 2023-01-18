@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a PhD student at the [EPSRC Centre for Doctoral Training in Statistical and Applied Mathematics (SAMBa)](https://samba.ac.uk/), University of Bath, UK. I'm a mathematical engineer with an MSc degree in applied mathematics at the [University of Chile](https://www.uchile.cl/postgrados/111195/applied-mathematics). My research interests lie in Inverse Problems, PDEs and Deep Learning. I like to apply my knowledge in real-world problems, especially in those arising from the biomedicine area and medical imaging. 
 
-Currently, I'm in my early stage of my PhD, under the supervision of [Matthias Erhardt](https://mehrhardt.github.io/) and [Lisa Kreusser](https://people.bath.ac.uk/lmk54/) studying Physics-Informed Neural Networks for the resolution of Dynamical Inverse Problems.
+Currently, I'm at the early stage of my PhD, under the supervision of [Matthias Erhardt](https://mehrhardt.github.io/) and [Lisa Kreusser](https://people.bath.ac.uk/lmk54/), studying Physics-Informed Neural Networks for the resolution of Dynamical Inverse Problems.
 
 In my leisure time, I like to learn new things about deep learning, play the piano, play football, take a walk with Brunildo and listen to new musicians. 
 
