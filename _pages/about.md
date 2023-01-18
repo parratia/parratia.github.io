@@ -27,7 +27,7 @@ News
 - Civil Mathematical Engineering at the Universidad de Chile, Facultad de Ciencias Físicas y Matemáticas, 2020
 - BSc in Engineering, with specialization in mathematics at the Universidad de Chile, Facultad de Ciencias Físicas y Matemáticas, 2018
 - Minor in Quantum Physics at the Universidad de Chile, Facultad de Ciencias Físicas y Matemáticas, 2018
-- 
+
 <!--
 A data-driven personal website
 ======
