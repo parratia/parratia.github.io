@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1 ![Alt Text](https://github.com/parratia/parratia.github.io/blob/master/images/warpPINN.gif)"
+excerpt: "Short description of portfolio item number 1 ![alt text](https://github.com/parratia/parratia.github.io/blob/master/images/warpPINN.gif)"
 collection: portfolio
 ---
 
