@@ -1,9 +1,13 @@
 ---
 title: "WarpPINN"
-excerpt: "Short description of portfolio item number 1"
+excerpt: "Brief description of results obtained in [WarpPINN](https://arxiv.org/abs/2211.12549)"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Once WarpPINN has been trained, we can apply it on the nodes of a segmentation of the left ventricle to visualise how it performs and how it tracks the motion: 
 
 <image src="/images/warpPINN.gif" /> 
+
+The following image represents the Strain curves obtained:
+
+<image src="/images/strain_curves.pdf" /> 
