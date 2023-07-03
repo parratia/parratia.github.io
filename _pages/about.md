@@ -20,7 +20,11 @@ working as a young researcher at the [Millennium Nucleus for Cardiovascular Magn
 News
 ======
 
-- **11/2023** New preprint. [WarpPINN: Cine-MR image registration with physics-informed neural networks](https://arxiv.org/abs/2211.12549). Joint work with [Francisco Sahli Costabal](https://fsahli.github.io/), [Daniel Hurtado](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/67-daniel-hurtado), [Sergio Uribe](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/75-sergio-uribe), and Hernán Mella. 
+- **06/2023** New article. [Erratum: Lipschitz Stability for Backward Heat Equation with Application to Fluorescence Microscopy](https://epubs.siam.org/doi/full/10.1137/22M1534882). Joint work with [Benjamín Palacios](https://sites.google.com/view/bpalacios/home), Evelyn Cueva, [Matías Courdurier](https://www.mat.uc.cl/personas/perfil/mcourdurier), and [Axel Osses](https://www.cmm.uchile.cl/?cmm_people=axel-osses). 
+
+- **11/2022** New preprint. [WarpPINN: Cine-MR image registration with physics-informed neural networks](https://arxiv.org/abs/2211.12549). Joint work with [Francisco Sahli Costabal](https://fsahli.github.io/), [Daniel Hurtado](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/67-daniel-hurtado), [Sergio Uribe](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/75-sergio-uribe), and Hernán Mella.
+
+- **07/2021** New article. [Lipschitz Stability for Backward Heat Equation with Application to Fluorescence Microscopy](https://epubs.siam.org/doi/10.1137/20M1374183). Joint work with [Benjamín Palacios](https://sites.google.com/view/bpalacios/home), Evelyn Cueva, [Matías Courdurier](https://www.mat.uc.cl/personas/perfil/mcourdurier), and [Axel Osses](https://www.cmm.uchile.cl/?cmm_people=axel-osses). 
 
 # Education
 - MSc in Applied Mathematics at the Universidad de Chile, Facultad de Ciencias Físicas y Matemáticas, 2020
