@@ -10,4 +10,4 @@ Once WarpPINN has been trained, we can apply it on the nodes of a segmentation o
 
 The following image represents the Strain curves obtained:
 
-<image src="/images/strain_curves.pdf" /> 
+<img src="/images/strain_curves.pdf" /> 
