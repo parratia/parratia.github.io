@@ -10,10 +10,9 @@ Once WarpPINN has been trained, we can apply it on the nodes of a segmentation o
 
 <image src="/images/two_squares.gif" /> 
 
-The following image represents the Strain curves obtained:
+<image src="/images/full_batch_g_0.01.gif" /> 
 
-![Alt text](/images/strain_curves-1.png)
+<image src="/images/mb_g_0.01.gif" /> 
 
-Jacobian obtained by WarpPINN at end-systole with regularizer $\mu=10^{-5}$ for all volunteers. The wireframe represents the end-diastolic configuration.
+<image src="/images/full_batch_g_0.gif" /> 
 
-![Alt text](/images/jacobian1e-05-1.png)
