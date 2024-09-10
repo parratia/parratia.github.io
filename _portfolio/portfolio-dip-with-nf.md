@@ -6,13 +6,14 @@ collection: portfolio
 
 The ground truth is two squares moving around some background. 
 
-Once WarpPINN has been trained, we can apply it on the nodes of a segmentation of the left ventricle to visualise how it performs and how it tracks the motion: 
-
 <image src="/images/two_squares.gif" /> 
 
+Reconstruction for $\gamma=10^{-2}$ and full batch training $N_{mb}=N_T$
 <image src="/images/full_batch_g_0.01.gif" /> 
 
+Reconstruction for $\gamma=10^{-2}$ and mini batch training $N_{mb}=1$
 <image src="/images/mb_g_0.01.gif" /> 
 
+Reconstruction for $\gamma=0$ and full batch training $N_{mb}=N_T$
 <image src="/images/full_batch_g_0.gif" /> 
 
