@@ -4,6 +4,8 @@ excerpt: "Brief description of results obtained in [this article](https://arxiv.
 collection: portfolio
 ---
 
+Take a look at [the preprint here](https://arxiv.org/abs/2406.01299v1)
+
 The ground truth is two squares moving around some background. 
 
 <image src="/images/two_squares.gif" /> 
