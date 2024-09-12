@@ -22,5 +22,5 @@ Reconstruction for $\gamma=0$ and full batch training $N_{mb}=N_T$
 <image src="/images/full_batch_g_0.gif" /> 
 
 Reconstruction for the voxelated approach for $\alpha=\beta=\gamma=10^{-3}$.
-<image src="/images/full_batch_g_0.gif" /> 
+<image src="/images/voxel.gif" /> 
 
