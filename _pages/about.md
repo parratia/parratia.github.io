@@ -10,9 +10,9 @@ redirect_from:
 
 I'm a PhD student at the [EPSRC Centre for Doctoral Training in Statistical and Applied Mathematics (SAMBa)](https://samba.ac.uk/), University of Bath, UK. I'm a mathematical engineer with an MSc degree in applied mathematics at the [University of Chile](https://www.uchile.cl/postgrados/111195/applied-mathematics). My research interests lie in Inverse Problems, PDEs and Deep Learning. I like to apply my knowledge in real-world problems, especially in those arising from the biomedicine area and medical imaging. 
 
-Currently, I'm at the early stage of my PhD, under the supervision of [Matthias Erhardt](https://mehrhardt.github.io/) and [Lisa Kreusser](https://people.bath.ac.uk/lmk54/), studying Physics-Informed Neural Networks for the resolution of Dynamical Inverse Problems.
+Currently, I'm at the late stage of my PhD, under the supervision of [Matthias Erhardt](https://mehrhardt.github.io/) and [Lisa Kreusser](https://people.bath.ac.uk/lmk54/), studying Physics-Informed Neural Networks for the resolution of Dynamic Imaging Inverse Problems.
 
-In my leisure time, I like to learn new things about deep learning, play the piano, play football, take a walk with Brunildo and listen to new musicians. 
+In my leisure time, I like to learn new things about deep learning, play the piano, play football, take a walk with my dog Bruno and listen to new musicians. 
 
 <!--
 working as a young researcher at the [Millennium Nucleus for Cardiovascular Magnetic Resonance](https://www.iniciativamilenio.cl/en/millennium-nucleus-in-cardiovascular-magnetic-resonance/#:~:text=The%20mission%20of%20the%20Millennium,and%20treatment%20of%20cardiovascular%20diseases.), where the goal of the project I'm carrying out is to reconstruct strain parameters from cine-MRI sequences with an image registration approach based on physics-informed neural networks. These strain parameters are, nowadays, being used to make better diagnosis and prognosis of heart's diseases. -->
