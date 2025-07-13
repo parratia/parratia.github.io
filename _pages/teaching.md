@@ -10,19 +10,19 @@ I have been tutor for various units in both the Dept. of Mathematical Sciences o
 ## University of Bath
 
 
-- **Numerical Analysis** (includes Python labs), semester 2 2024/2025, and semester 1 2022/2023.
-- **Machine Learning** (includes Python labs), semester 1 2024/2025 and semester 2 2023/2024.
-- **Ordinary Differential Equations and Control Theory**, semester 1 2023/2024.
-- **Analysis I**, semester 2 2022/2023.
-- **Programming Lab** (Python), semester 2 2021/2022.
-- **Multivariate Calculus and Differential Equations**, semester 1 2021/2022. 
+- **Numerical Analysis** (includes Python labs), semester 2, 2024/2025, and semester 1, 2022/2023.
+- **Machine Learning** (includes Python labs), semester 1, 2024/2025 and semester 2, 2023/2024.
+- **Ordinary Differential Equations and Control Theory**, semester 1, 2023/2024.
+- **Analysis I**, semester 2, 2022/2023.
+- **Programming Lab** (Python), semester 2, 2021/2022.
+- **Multivariate Calculus and Differential Equations**, semester 1, 2021/2022. 
 
 ## University of Chile
 
-- **Inverse and Control Problems of Partial Diffrential Equations** (includes MATLAB labs), semester 2 2019.
-- **Numerical Analysis for PArtial Diffrential Equations: Theory and Laboratory** (includes MATLAB labs), semester 1 2019.
-- **Optimal Control: Theory and Laboratory**. Lab assistant, semester 2 2018.
-- **Multivariate Calculus**, semester 1 2018.
+- **Inverse and Control Problems of Partial Differential Equations** (includes MATLAB labs), semester 2, 2019.
+- **Numerical Analysis for PArtial Diffrential Equations: Theory and Laboratory** (includes MATLAB labs), semester 1, 2019.
+- **Optimal Control: Theory and Laboratory**, lab assistant, semester 2, 2018.
+- **Multivariate Calculus**, semester 1, 2018.
  
 <!-- {% include base_path %}
 

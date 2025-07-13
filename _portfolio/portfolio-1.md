@@ -1,6 +1,6 @@
 ---
 title: "WarpPINN"
-excerpt: "Brief description of results obtained in [WarpPINN](https://arxiv.org/abs/2211.12549)"
+excerpt: "Brief description of results obtained in [WarpPINN](https://www.sciencedirect.com/science/article/abs/pii/S1361841523001858)"
 collection: portfolio
 ---
 

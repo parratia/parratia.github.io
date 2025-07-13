@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a PhD student at the [EPSRC Centre for Doctoral Training in Statistical and Applied Mathematics (SAMBa)](https://samba.ac.uk/), University of Bath, UK. I'm a mathematical engineer with an MSc degree in applied mathematics at the [University of Chile](https://www.uchile.cl/postgrados/111195/applied-mathematics). My research interests lie in Inverse Problems, PDEs and Deep Learning. I like to apply my knowledge in real-world problems, especially in those arising from the biomedicine area and medical imaging. 
 
-Currently, I'm at the late stage of my PhD, under the supervision of [Matthias Erhardt](https://mehrhardt.github.io/) and [Lisa Kreusser](https://people.bath.ac.uk/lmk54/), studying Physics-Informed Neural Networks for the resolution of Dynamic Imaging Inverse Problems.
+Currently, I'm at the late stage of my PhD, under the supervision of [Matthias Erhardt](https://mehrhardt.github.io/) and [Lisa Kreusser](https://people.bath.ac.uk/lmk54/), studying Physics-Informed Neural Networks for Dynamic Imaging Inverse Problems with highly undersampled measurements.
 
 <!--
 working as a young researcher at the [Millennium Nucleus for Cardiovascular Magnetic Resonance](https://www.iniciativamilenio.cl/en/millennium-nucleus-in-cardiovascular-magnetic-resonance/#:~:text=The%20mission%20of%20the%20Millennium,and%20treatment%20of%20cardiovascular%20diseases.), where the goal of the project I'm carrying out is to reconstruct strain parameters from cine-MRI sequences with an image registration approach based on physics-informed neural networks. These strain parameters are, nowadays, being used to make better diagnosis and prognosis of heart's diseases. -->
@@ -20,7 +20,7 @@ News
 
 - **07/2025** New article. [Enhancing Dynamic CT Image Reconstruction with Neural Fields and Optical Flow](https://rdcu.be/evK9j). Joint work with [Matthias Ehrhardt](https://mehrhardt.github.io/), and [Lisa Kreusser](https://people.bath.ac.uk/lmk54/). Code available upon publication. 
 
-- **07/2023** New article. [WarpPINN: Cine-MR image registration with physics-informed neural networks](https://arxiv.org/abs/2211.12549). Joint work with [Francisco Sahli Costabal](https://fsahli.github.io/), [Daniel Hurtado](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/67-daniel-hurtado), [Sergio Uribe](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/75-sergio-uribe), and Hernán Mella.
+- **07/2023** New article. [WarpPINN: Cine-MR image registration with physics-informed neural networks](https://www.sciencedirect.com/science/article/abs/pii/S1361841523001858). Joint work with [Francisco Sahli Costabal](https://fsahli.github.io/), [Daniel Hurtado](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/67-daniel-hurtado), [Sergio Uribe](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/75-sergio-uribe), and Hernán Mella.
 
 - **06/2023** New article. [Erratum: Lipschitz Stability for Backward Heat Equation with Application to Fluorescence Microscopy](https://epubs.siam.org/doi/full/10.1137/22M1534882). Joint work with [Benjamín Palacios](https://sites.google.com/view/bpalacios/home), Evelyn Cueva, [Matías Courdurier](https://www.mat.uc.cl/personas/perfil/mcourdurier), and [Axel Osses](https://www.cmm.uchile.cl/?cmm_people=axel-osses). 
 

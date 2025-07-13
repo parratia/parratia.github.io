@@ -1,10 +1,10 @@
 ---
 title: "Enhancing Dynamic CT Image Reconstruction with Neural Fields and Motion Models"
-excerpt: "Brief description of results obtained in [this article](https://arxiv.org/abs/2406.01299v1)"
+excerpt: "Brief description of results obtained in [this article](https://rdcu.be/evK9j)"
 collection: portfolio
 ---
 
-Take a look at [the preprint here](https://arxiv.org/abs/2406.01299v1)
+Take a look at [the preprint here](https://rdcu.be/evK9j)
 
 The ground truth is two squares moving around some background.
 
