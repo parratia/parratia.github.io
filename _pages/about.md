@@ -18,7 +18,9 @@ working as a young researcher at the [Millennium Nucleus for Cardiovascular Magn
 News
 ======
 
-- **07/2025** New article. [Enhancing Dynamic CT Image Reconstruction with Neural Fields and Optical Flow](https://rdcu.be/evK9j). Joint work with [Matthias Ehrhardt](https://mehrhardt.github.io/), and [Lisa Kreusser](https://people.bath.ac.uk/lmk54/). Code available upon publication. 
+- **10/2025** New preprint. [Neural Fields for Highly Accelerated 2D Cine Phase Contrast MRI](https://arxiv.org/abs/2509.25388). Joint work with [Matthias Ehrhardt](https://mehrhardt.github.io/), Martin J. Graves, Mary McLean, Carolin Pirkl, Carola-Bibiane Schönlieb, Timo Schirmer, and Florian Wiesinger. Code available upon publication. 
+
+- **07/2025** New article. [Enhancing Dynamic CT Image Reconstruction with Neural Fields and Optical Flow](https://rdcu.be/evK9j). Joint work with [Matthias Ehrhardt](https://mehrhardt.github.io/), and [Lisa Kreusser](https://people.bath.ac.uk/lmk54/). [Code publicly available](https://github.com/parratia/Dynamic-CT-with-Neural-Fields) . 
 
 - **07/2023** New article. [WarpPINN: Cine-MR image registration with physics-informed neural networks](https://www.sciencedirect.com/science/article/abs/pii/S1361841523001858). Joint work with [Francisco Sahli Costabal](https://fsahli.github.io/), [Daniel Hurtado](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/67-daniel-hurtado), [Sergio Uribe](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/75-sergio-uribe), and Hernán Mella.
 

@@ -20,7 +20,7 @@ I have been tutor for various units in both the Dept. of Mathematical Sciences o
 ## University of Chile
 
 - **Inverse and Control Problems of Partial Differential Equations** (includes MATLAB labs), semester 2, 2019.
-- **Numerical Analysis for PArtial Diffrential Equations: Theory and Laboratory** (includes MATLAB labs), semester 1, 2019.
+- **Numerical Analysis for Partial Differential Equations: Theory and Laboratory** (includes MATLAB labs), semester 1, 2019.
 - **Optimal Control: Theory and Laboratory**, lab assistant, semester 2, 2018.
 - **Multivariate Calculus**, semester 1, 2018.
  
